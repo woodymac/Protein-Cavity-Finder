@@ -1,5 +1,3 @@
-CS 2104 Final Project
-
 Overview:
 This program takes an input .pdb file representing a protein and all the atoms that compose it.  
 The program searches through the file for void spaces.  It then distinguishes between normal
